@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shoppyglobe/static/css/main.df9bb143.css",
+    "main.js": "/shoppyglobe/static/js/main.c0a8ee91.js",
+    "static/css/366.82e1c6f2.chunk.css": "/shoppyglobe/static/css/366.82e1c6f2.chunk.css",
+    "static/js/366.4bbff01c.chunk.js": "/shoppyglobe/static/js/366.4bbff01c.chunk.js",
+    "static/css/66.d17a8bb5.chunk.css": "/shoppyglobe/static/css/66.d17a8bb5.chunk.css",
+    "static/js/66.352cfea0.chunk.js": "/shoppyglobe/static/js/66.352cfea0.chunk.js",
+    "static/css/716.d3064243.chunk.css": "/shoppyglobe/static/css/716.d3064243.chunk.css",
+    "static/js/716.bfda3d36.chunk.js": "/shoppyglobe/static/js/716.bfda3d36.chunk.js",
+    "static/js/614.e34fd554.chunk.js": "/shoppyglobe/static/js/614.e34fd554.chunk.js",
+    "static/js/453.ca924f74.chunk.js": "/shoppyglobe/static/js/453.ca924f74.chunk.js",
+    "index.html": "/shoppyglobe/index.html",
+    "main.df9bb143.css.map": "/shoppyglobe/static/css/main.df9bb143.css.map",
+    "main.c0a8ee91.js.map": "/shoppyglobe/static/js/main.c0a8ee91.js.map",
+    "366.82e1c6f2.chunk.css.map": "/shoppyglobe/static/css/366.82e1c6f2.chunk.css.map",
+    "366.4bbff01c.chunk.js.map": "/shoppyglobe/static/js/366.4bbff01c.chunk.js.map",
+    "66.d17a8bb5.chunk.css.map": "/shoppyglobe/static/css/66.d17a8bb5.chunk.css.map",
+    "66.352cfea0.chunk.js.map": "/shoppyglobe/static/js/66.352cfea0.chunk.js.map",
+    "716.d3064243.chunk.css.map": "/shoppyglobe/static/css/716.d3064243.chunk.css.map",
+    "716.bfda3d36.chunk.js.map": "/shoppyglobe/static/js/716.bfda3d36.chunk.js.map",
+    "614.e34fd554.chunk.js.map": "/shoppyglobe/static/js/614.e34fd554.chunk.js.map",
+    "453.ca924f74.chunk.js.map": "/shoppyglobe/static/js/453.ca924f74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df9bb143.css",
+    "static/js/main.c0a8ee91.js"
+  ]
+}

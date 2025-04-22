@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkshoppyglobe=self.webpackChunkshoppyglobe||[]).push([[614],{614:(e,s,o)=>{o.r(s),o.d(s,{default:()=>l});var n=o(579);const l=()=>(0,n.jsxs)("div",{style:{textAlign:"center",padding:"2rem"},children:[(0,n.jsx)("h2",{children:"404 - Page Not Found"}),(0,n.jsx)("p",{children:"The page you are looking for does not exist."})]})}}]);
+//# sourceMappingURL=614.e34fd554.chunk.js.map
